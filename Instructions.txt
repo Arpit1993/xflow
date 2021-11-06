@@ -1,0 +1,29 @@
+Hi there! My name is Arpit J Soni.
+
+
+Steps: 
+
+1.) Please do npm install so that the dependencies are installed.
+
+2.) After dependencies are installed, please run the command "npm run dev". 
+
+3.) After you run the "npm run dev" command, a new tab in your browser would be opened with the UI. 
+
+
+
+
+I've used node v14.16.1. 
+
+Note 1: I've added screenshots of the output in the 'Screenshots' folder.
+
+2:  This project has been implemented in two ways first is using localStorage and the second is using React Hooks.
+
+3: To run and check the React Hooks flow please replace the "entry" value in "webpack.config.js" with "./app_global/index.js"
+
+4: You can reach me at 'miliyearpitse@gmail.com' or call 9742954536 for any further queries.
+
+
+
+
+Thank You!
+
